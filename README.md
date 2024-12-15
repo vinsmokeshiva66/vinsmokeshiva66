@@ -77,7 +77,7 @@ A secure and scalable application simulating core banking operations:
 
 ## 🌐 Tech Profiles  
 
-- [GeeksforGeeks - Shivaganesh](https://www.geeksforgeeks.org/)  
-- [GitHub - Shivaganesh](https://github.com/ShivaganeshPandian)  
+- [GeeksforGeeks - Shivaganesh](https://www.geeksforgeeks.org/user/shivaganeshvlge/)  
+- [GitHub - Shivaganesh](https://leetcode.com/u/GG3o836JdF/)  
 
 ---
