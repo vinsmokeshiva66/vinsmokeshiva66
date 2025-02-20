@@ -1,8 +1,8 @@
 # 💻 Shivaganesh Pandian S
 
 📧 shivaganeshpandian66@gmail.com | 📞 +91 9360170465  
-!LinkedIn  
-!GitHub  
+!LinkedIn  linkedin.com/in/shivaganesh-pandian-s-561766261
+!GitHub  https://github.com/vinsmokeshiva66
 
 ---
 
@@ -86,5 +86,5 @@ Implements CRUD (Create, Read, Update, Delete) operations for managing student r
 
 ## 🌐 Tech Profiles  
 
-- GeeksforGeeks - Shivaganesh  
-- GitHub - Shivaganesh  
+- GeeksforGeeks - https://www.geeksforgeeks.org/user/shivaganeshvlge/
+- GitHub - https://github.com/vinsmokeshiva66
